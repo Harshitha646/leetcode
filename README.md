@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Harshitha646/leetcode/tree/master/0043-multiply-strings) |
+## Array
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Harshitha646/leetcode/tree/master/0041-first-missing-positive) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Harshitha646/leetcode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
